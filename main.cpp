@@ -6,6 +6,6 @@ int Mnozenie (int a, int b) {
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    std::cout << "W drugim branchu; 2 + 3 = " <<Mnozenie(2,3)<< std::endl;
+    std::cout << "W drugim branchu; 2 * 3 = " <<Mnozenie(2,3)<< std::endl;
     return 0;
 }
